@@ -20,7 +20,7 @@
 </p>
 
 ### 🎥 Contenido audiovisual
-[![Usuarios suscritos a mi canal](https://img.shields.io/youtube/channel/subscribers/UCFKepbjJHyHcg8IzQT1Cl-Q?label=Personas%suscritas%20a%20mi%20canal&style=social&color=red)](https://www.youtube.com/channel/UCFKepbjJHyHcg8IzQT1Cl-Q)
+[![Usuarios suscritos a mi canal](https://img.shields.io/youtube/channel/subscribers/UCFKepbjJHyHcg8IzQT1Cl-Q?label=Personas%20suscritas%20a%20mi%20canal&style=social&color=red)](https://www.youtube.com/channel/UCFKepbjJHyHcg8IzQT1Cl-Q)
 [![Visitas totales del canal](https://img.shields.io/youtube/channel/views/UCFKepbjJHyHcg8IzQT1Cl-Q?label=Visitas%20totales&style=social&color=red)](https://www.youtube.com/channel/UCFKepbjJHyHcg8IzQT1Cl-Q)
 
 [![Usuarios siguiéndome en TikTok](https://img.shields.io/badge/Seguidores%20TikTok-408k%20seguidores-black?logo=tiktok&style=social&color=black)](https://www.tiktok.com/@Lukychill)
