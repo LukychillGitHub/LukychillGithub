@@ -20,10 +20,11 @@
 </p>
 
 ### 🎥 Contenido audiovisual
-[![Usuarios suscritos a mi canal](https://img.shields.io/youtube/channel/subscribers/UCFKepbjJHyHcg8IzQT1Cl-Q?label=People%20subscribed%20to%20my%20channel&style=social&color=red)](https://www.youtube.com/channel/UCFKepbjJHyHcg8IzQT1Cl-Q)
-[![Visitas totales del canal](https://img.shields.io/youtube/channel/views/UCFKepbjJHyHcg8IzQT1Cl-Q?label=Total%20views&style=social&color=red)](https://www.youtube.com/channel/UCFKepbjJHyHcg8IzQT1Cl-Q)
+[![Usuarios suscritos a mi canal](https://img.shields.io/youtube/channel/subscribers/UCFKepbjJHyHcg8IzQT1Cl-Q?label=Personas%suscritas%20a%20mi%20canal&style=social&color=red)](https://www.youtube.com/channel/UCFKepbjJHyHcg8IzQT1Cl-Q)
+[![Visitas totales del canal](https://img.shields.io/youtube/channel/views/UCFKepbjJHyHcg8IzQT1Cl-Q?label=Visitas%20totales&style=social&color=red)](https://www.youtube.com/channel/UCFKepbjJHyHcg8IzQT1Cl-Q)
 
-[![Usuarios siguiéndome en TikTok](https://img.shields.io/badge/TikTok-408k%20seguidores-black?logo=tiktok&style=social&color=black)](https://www.tiktok.com/@Lukychill)
-[![Likes en TikTok](https://img.shields.io/badge/TikTok-9.4M%20likes-black?logo=tiktok&style=social&color=black)](https://www.tiktok.com/@Lukychill)
+[![Usuarios siguiéndome en TikTok](https://img.shields.io/badge/Seguidores%20TikTok-408k%20seguidores-black?logo=tiktok&style=social&color=black)](https://www.tiktok.com/@Lukychill)
+[![Likes en TikTok](https://img.shields.io/badge/Visitas%20TikTok->180M%20-black?logo=tiktok&style=social&color=black)](https://www.tiktok.com/@Lukychill)
+[![Likes en TikTok](https://img.shields.io/badge/Likes%20TikTok-9.4M%20likes-black?logo=tiktok&style=social&color=black)](https://www.tiktok.com/@Lukychill)
 
 
