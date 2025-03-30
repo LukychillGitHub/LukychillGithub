@@ -1,7 +1,6 @@
 ## Buenas 👋! Soy Lucas Roman Fernandez
-<h3> Ingeniería en Informática | Code & Learning 🚀</h3>
-
-- ⚡ Sobre mi: **Actualmente me encuentro estudiando Ingenieria en Informatico en la Universidad del Salvador (USAL)**
+- ⚡ Actualmente me encuentro estudiando Ingenieria en Informatica en la *Universidad del Salvador*
+- 🚀 Coding & Learning 
 
 ## 🛠️ Tecnologias y Herramientas que mayormente utilizo
 <div align="center">
