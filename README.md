@@ -1,16 +1,27 @@
-## Hi there 👋
+## Buenas 👋! Soy Lucas Roman Fernandez
+<h3> Ingeniería en Informática | Code & Learning 🚀</h3>
 
-<!--
-**LukychillGitHub/LukychillGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Sobre mi: **Actualmente me encuentro estudiando Ingenieria en Informatico en la Universidad del Salvador (USAL)**
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias y Herramientas que mayormente utilizo
+<div align="center">
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🫂 Redes sociales en las que conectar:</h3>
+<p align="left">
+<a href="https://twitter.com/lukychill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lukychill" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lukychill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukychill" height="30" width="40" /></a>
+<a href="https://instagram.com/lukychill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukychill" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/lukychill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lukychill" height="30" width="40" /></a>
+<a href="https://discord.gg/lukychill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lukychill" height="30" width="40" /></a>
+</p>
+
+### 🎥 Contenido audiovisual
+[![Usuarios suscritos a mi canal](https://img.shields.io/youtube/channel/subscribers/UCFKepbjJHyHcg8IzQT1Cl-Q?label=People%20subscribed%20to%20my%20channel&style=social&color=red)](https://www.youtube.com/channel/UCFKepbjJHyHcg8IzQT1Cl-Q)
+[![Visitas totales del canal](https://img.shields.io/youtube/channel/views/UCFKepbjJHyHcg8IzQT1Cl-Q?label=Total%20views&style=social&color=red)](https://www.youtube.com/channel/UCFKepbjJHyHcg8IzQT1Cl-Q)
+
+[![Usuarios siguiéndome en TikTok](https://img.shields.io/badge/TikTok-408k%20seguidores-black?logo=tiktok&style=social&color=black)](https://www.tiktok.com/@Lukychill)
+[![Likes en TikTok](https://img.shields.io/badge/TikTok-9.4M%20likes-black?logo=tiktok&style=social&color=black)](https://www.tiktok.com/@Lukychill)
+
+
